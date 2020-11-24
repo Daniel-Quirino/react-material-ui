@@ -1,6 +1,4 @@
-<h1 align="center"><img src="src/assets/logo-dtidigital.png" width="30%"/></h1>
-
-<h2 align="center">📊 Plataforma Round</h2>
+<h2 align="center">📊 Gestão de Conhecimento </h2>
 
 ## Funcionamento
 
